@@ -1,0 +1,2 @@
+# Project10
+Exercício 10 da UC: PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS
